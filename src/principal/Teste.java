@@ -24,5 +24,6 @@ public static int multiplicacao(int a, int b){
 }
 public static int divisao(int a, int b){
 	return a/b;
+	//teste
 }
 }
