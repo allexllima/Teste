@@ -8,6 +8,7 @@ public class Teste {
 	}
 public static int soma(int a, int b, int c) {
 	return a+b+c;
+	// testando commit no master
 }
 
 public static int sub(int a, int b){
