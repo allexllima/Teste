@@ -6,5 +6,10 @@ public class Teste {
 		// TODO Auto-generated method stub
 
 	}
-
+public static int soma(int a, int b){
+	return a+b;
+	
+	
+	
+}
 }
